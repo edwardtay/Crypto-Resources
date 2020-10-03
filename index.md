@@ -9,32 +9,36 @@
 8. **Spend** — use your money to pay for something
 
 ## EARN ##
-### Rewards ##
 
+### Rewards ##
 - [Bitrefill](https://bit.ly/bit-refill) 
 - [EarnSats](https://bit.ly/earn-sats)
 - [Fold](https://bit.ly/fold-app) 
 - [Lolli](https://bit.ly/get-lolli)
 
+### Mining ###
+- [Coinmine](https://coinmine.com)
+- [Honeyminer](http://bit.ly/download-honeyminer)
+- [Minergate](http://bit.ly/try-minergate)
+- [Nicehash](http://bit.ly/try-nicehash)
 
+## BORROW ##
+- [Celsius](http://bit.ly/celsius-app)
+- [Coinloan](http://bit.ly/try-coinloan)
+- [Nexo](http://bit.ly/try-nexo)
 
 ## HOLD ##
+
 ### Wallet
 - [Ledgar](https://www.ledgerwallet.com)
 - [Trezor](https://trezor.io)
 
 
 ## LEND ##
+- [BlockFi](http://bit.ly/blockfi)
 - [Celsius](http://bit.ly/celsius-app)
 - [Coinloan](http://bit.ly/try-coinloan)
+- [Nexo](http://bit.ly/try-nexo)
 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/edwardtay/DeFi-resources/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
