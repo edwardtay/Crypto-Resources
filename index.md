@@ -1,10 +1,10 @@
 What would you do with your crypto?
 
-1. [**Earn**](#earn) — do something of value to get additional money
+1. [**Earn**](#1-earn) — do something of value to get additional money
 2. **Borrow** — pay funds to borrow money from protocols and banks
 3. **Hold** — custody and secure your money for saving
 4. **Lend** — generate returns by lending your money to protocols or banks
-5. **Stake** — special case of lending—lend money to a protocol to generate returns
+5. [**Stake**](#5-stake) — special case of lending—lend money to a protocol to generate returns
 6. **Trade** — exchange your money for something of value
 7. **Bet** — risk and earn money by making a bet (shorting/longing included)
 8. **Spend** — use your money to pay for something
