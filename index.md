@@ -8,9 +8,15 @@
 7. **Trade** — exchange your money for something of value
 8. **Spend** — use your money to pay for something
 
+## EARN ##
+### Rewards ##
+
+- [Bitrefill](https://bit.ly/bit-refill) 
+- [EarnSats](https://bit.ly/earn-sats)
+- [Fold](https://bit.ly/fold-app) 
+- [Lolli](https://bit.ly/get-lolli)
 
 
-[Link](url) and ![Image](src)
 
 ## HOLD ##
 ### Wallet
@@ -20,7 +26,7 @@
 
 ## LEND ##
 - [Celsius](http://bit.ly/celsius-app)
-- [Coinloan[(http://bit.ly/try-coinloan)
+- [Coinloan](http://bit.ly/try-coinloan)
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
