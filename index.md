@@ -64,7 +64,7 @@ What would you do with your crypto?
 - [Wirex](http://bit.ly/try-wirexapp)
 
 ## 7. BET ##
-:horse_racing:
+🏇
 ### Sports ###
 
 ## 8. SPEND ##
