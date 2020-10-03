@@ -40,5 +40,23 @@
 - [Coinloan](http://bit.ly/try-coinloan)
 - [Nexo](http://bit.ly/try-nexo)
 
+## TRADE ##
+### Exchanges ###
+- [BaseFEX](http://bit.ly/try-BaseFEX)
+- [Binance](http://bit.ly/binance-crypto-exchange)
+- [Bitfinex](http://bit.ly/try-bitfinex)
+- [BitMEX](http://bit.ly/try-BitMEX)
+- [Bitpanda](http://bit.ly/bitpanda-exchange)
+- [Changelly](http://bit.ly/try-changelly)
+- [CoinFalcon](http://bit.ly/coin-falcon)
+- [Coinmama](http://bit.ly/try-coinmama)
+- [Deribit](http://bit.ly/try-deribit)
+- [Gate](http://bit.ly/gate-exchange)
+- [LocalBitcoins](http://bit.ly/localbitcoinsdotcom)
+- [Luno](http://bit.ly/try-luno)
+- [Remitano](http://bit.ly/try-Remitano)
+- [Tokenize Xchange](http://bit.ly/tokenize-xchange)
+- [Wirex](http://bit.ly/try-wirexapp)
+
 
 
