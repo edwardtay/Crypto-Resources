@@ -1,31 +1,21 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/edwardtay/DeFi-resources/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+1. **Earn** — do something of value to get additional money
+2. **Borrow** — pay funds to borrow money from protocols and banks
+3. **Hold** — custody and secure your money for saving
+4. **Lend** — generate returns by lending your money to protocols or banks
+5. **Stake** — special case of lending—lend money to a protocol to generate returns
+6. **Bet** — risk and earn money by making a bet (shorting/longing included)
+7. **Trade** — exchange your money for something of value
+8. **Spend** — use your money to pay for something
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-[Ledgar](https://www.ledgerwallet.com)
-[Trezor](https://trezor.io)
+
+### Wallet
+- [Ledgar](https://www.ledgerwallet.com)
+- [Trezor](https://trezor.io)
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
