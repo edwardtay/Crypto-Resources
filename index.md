@@ -10,7 +10,7 @@ What would you do with your crypto?
 8. **Spend** — use your money to pay for something
 
 ## 1. EARN ##
-### Rewards ### \:raised_hands:
+:raised_hands: \ ### Rewards ###
 - [Bitrefill](https://bit.ly/bit-refill) 
 - [EarnSats](https://bit.ly/earn-sats)
 - [Fold](https://bit.ly/fold-app) 
