@@ -10,15 +10,15 @@ What would you do with your crypto?
 8. [**Spend**](#8-spend) — use your money to transact in the real world.
 
 ## 1. EARN ##
-:raised_hands: 
-### Rewards ###
+🙌 
+### Rewards ### 🙌 
 - [Bitrefill](https://bit.ly/bit-refill) 
 - [EarnSats](https://bit.ly/earn-sats)
 - [Fold](https://bit.ly/fold-app) 
 - [Lolli](https://bit.ly/get-lolli)
 
 :pick:
-### Mining ### 
+### Mining ### - 🙌 
 - [Coinmine](https://coinmine.com)
 - [Honeyminer](http://bit.ly/download-honeyminer)
 - [Minergate](http://bit.ly/try-minergate)
