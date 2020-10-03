@@ -1,15 +1,15 @@
 What would you do with your crypto?
 
-1. **Earn** — do something of value to get additional money
+1. [**Earn**](#earn) — do something of value to get additional money
 2. **Borrow** — pay funds to borrow money from protocols and banks
 3. **Hold** — custody and secure your money for saving
 4. **Lend** — generate returns by lending your money to protocols or banks
 5. **Stake** — special case of lending—lend money to a protocol to generate returns
-6. **Bet** — risk and earn money by making a bet (shorting/longing included)
-7. **Trade** — exchange your money for something of value
+6. **Trade** — exchange your money for something of value
+7. **Bet** — risk and earn money by making a bet (shorting/longing included)
 8. **Spend** — use your money to pay for something
 
-## EARN ##
+## 1. EARN ##
 ### Rewards ##
 - [Bitrefill](https://bit.ly/bit-refill) 
 - [EarnSats](https://bit.ly/earn-sats)
@@ -22,25 +22,27 @@ What would you do with your crypto?
 - [Minergate](http://bit.ly/try-minergate)
 - [Nicehash](http://bit.ly/try-nicehash)
 
-## BORROW ##
+## 2. BORROW ##
 - [Celsius](http://bit.ly/celsius-app)
 - [Coinloan](http://bit.ly/try-coinloan)
 - [Nexo](http://bit.ly/try-nexo)
 
-## HOLD ##
+## 3. HOLD ##
 
 ### Wallet
 - [Ledgar](https://www.ledgerwallet.com)
 - [Trezor](https://trezor.io)
 
 
-## LEND ##
+## 4. LEND ##
 - [BlockFi](http://bit.ly/blockfi)
 - [Celsius](http://bit.ly/celsius-app)
 - [Coinloan](http://bit.ly/try-coinloan)
 - [Nexo](http://bit.ly/try-nexo)
 
-## TRADE ##
+## 5. STAKE ##
+
+## 6. TRADE ##
 ### Exchanges ###
 - [BaseFEX](http://bit.ly/try-BaseFEX)
 - [Binance](http://bit.ly/binance-crypto-exchange)
@@ -58,5 +60,8 @@ What would you do with your crypto?
 - [Tokenize Xchange](http://bit.ly/tokenize-xchange)
 - [Wirex](http://bit.ly/try-wirexapp)
 
+## 7. BET ##
+
+## 8. SPEND ##
 
 
