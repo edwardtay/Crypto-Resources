@@ -29,7 +29,7 @@ What would you do with your crypto?
 
 ## 3. HOLD ##
 
-### Wallet ### :purse:
+### Wallet :purse:
 - [Ledgar](https://www.ledgerwallet.com)
 - [Trezor](https://trezor.io)
 
