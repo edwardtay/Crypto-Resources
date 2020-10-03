@@ -9,13 +9,18 @@
 8. **Spend** — use your money to pay for something
 
 
-**Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 
+## HOLD ##
 ### Wallet
 - [Ledgar](https://www.ledgerwallet.com)
 - [Trezor](https://trezor.io)
+
+
+## LEND ##
+- [Celsius](http://bit.ly/celsius-app)
+- [Coinloan[(http://bit.ly/try-coinloan)
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
