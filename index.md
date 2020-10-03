@@ -10,13 +10,13 @@ What would you do with your crypto?
 8. **Spend** — use your money to pay for something
 
 ## 1. EARN ##
-### Rewards ### 🙌
+### Rewards ### :raised_hands:
 - [Bitrefill](https://bit.ly/bit-refill) 
 - [EarnSats](https://bit.ly/earn-sats)
 - [Fold](https://bit.ly/fold-app) 
 - [Lolli](https://bit.ly/get-lolli)
 
-### Mining ### ⛏
+### Mining ### :pick:
 - [Coinmine](https://coinmine.com)
 - [Honeyminer](http://bit.ly/download-honeyminer)
 - [Minergate](http://bit.ly/try-minergate)
@@ -29,7 +29,7 @@ What would you do with your crypto?
 
 ## 3. HOLD ##
 
-### Wallet ### 👛
+### Wallet ### :purse:
 - [Ledgar](https://www.ledgerwallet.com)
 - [Trezor](https://trezor.io)
 
