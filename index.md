@@ -1,3 +1,4 @@
+What would you do with your crypto?
 
 1. **Earn** — do something of value to get additional money
 2. **Borrow** — pay funds to borrow money from protocols and banks
@@ -9,7 +10,6 @@
 8. **Spend** — use your money to pay for something
 
 ## EARN ##
-
 ### Rewards ##
 - [Bitrefill](https://bit.ly/bit-refill) 
 - [EarnSats](https://bit.ly/earn-sats)
