@@ -11,14 +11,14 @@ What would you do with your crypto?
 
 ## 1. EARN ##
 🙌 
-### Rewards ### 🙌 
+### Rewards ###  
 - [Bitrefill](https://bit.ly/bit-refill) 
 - [EarnSats](https://bit.ly/earn-sats)
 - [Fold](https://bit.ly/fold-app) 
 - [Lolli](https://bit.ly/get-lolli)
 
 :pick:
-### Mining ### - 🙌 
+### Mining ### 
 - [Coinmine](https://coinmine.com)
 - [Honeyminer](http://bit.ly/download-honeyminer)
 - [Minergate](http://bit.ly/try-minergate)
@@ -45,7 +45,7 @@ What would you do with your crypto?
 ## 5. STAKE ##
 
 ## 6. TRADE ##
-:currency_exchange:
+💱
 ### Exchanges ###
 - [BaseFEX](http://bit.ly/try-BaseFEX)
 - [Binance](http://bit.ly/binance-crypto-exchange)
@@ -68,6 +68,6 @@ What would you do with your crypto?
 ### Sports ###
 
 ## 8. SPEND ##
-:credit_card:
+💳
 ### Credit Card ###
 
