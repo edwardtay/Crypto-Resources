@@ -29,6 +29,7 @@ What would you do with your crypto?
 
 - [Celsius](http://bit.ly/celsius-app)
 - [Coinloan](http://bit.ly/try-coinloan)
+- [Crypto.com](http://bit.ly/try-cryptodotcom)
 - [Nexo](http://bit.ly/try-nexo)
 
 ## 3. HOLD ##
@@ -42,6 +43,7 @@ What would you do with your crypto?
 - [BlockFi](http://bit.ly/blockfi)
 - [Celsius](http://bit.ly/celsius-app)
 - [Coinloan](http://bit.ly/try-coinloan)
+- [Crypto.com](http://bit.ly/try-cryptodotcom)
 - [Nexo](http://bit.ly/try-nexo)
 
 ## 5. STAKE ##
@@ -73,4 +75,5 @@ What would you do with your crypto?
 ## 8. SPEND ##
 💳
 <ins>Credit Card</ins>
+- [Crypto.com](http://bit.ly/try-cryptodotcom)
 
