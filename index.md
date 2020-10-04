@@ -11,20 +11,20 @@ What would you do with your crypto?
 
 ## 1. EARN ##
 💼
-<ins>Jobs</ins> 
+<ins>Jobs</ins> - You don't have to be a developer in order to contribute to this emrging industry.
 - [Angel List](https://angel.co/blockchains/jobs)
 - [Crypto Job List](https://cryptojobslist.com)
 - [Cryptocurrency Jobs](https://cryptocurrencyjobs.co)
 
 ⛏
-<ins>Mining</ins>
+<ins>Mining</ins> - Receive crypto as a reward for completing "blocks" of verified transactions which are added to the blockchain.
 - [Coinmine](https://coinmine.com)
 - [Honeyminer](http://bit.ly/download-honeyminer)
 - [Minergate](http://bit.ly/try-minergate)
 - [Nicehash](http://bit.ly/try-nicehash)
 
 🙌 
-<ins>Rewards</ins> 
+<ins>Rewards</ins> - Some cool ways to stack sats without paying a penny
 - [Bitrefill](https://bit.ly/bit-refill) 
 - [EarnSats](https://bit.ly/earn-sats)
 - [Fold](https://bit.ly/fold-app) 
