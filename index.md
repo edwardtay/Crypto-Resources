@@ -10,28 +10,30 @@ What would you do with your crypto?
 8. [**Spend**](#8-spend) — use your money to transact in the real world.
 
 ## 1. EARN ##
+
 🙌 
-### Rewards ###  
+<ins>Rewards</ins> 
 - [Bitrefill](https://bit.ly/bit-refill) 
 - [EarnSats](https://bit.ly/earn-sats)
 - [Fold](https://bit.ly/fold-app) 
 - [Lolli](https://bit.ly/get-lolli)
 
-:pick:
-### Mining ### 
+⛏
+<ins>Mining</ins>
 - [Coinmine](https://coinmine.com)
 - [Honeyminer](http://bit.ly/download-honeyminer)
 - [Minergate](http://bit.ly/try-minergate)
 - [Nicehash](http://bit.ly/try-nicehash)
 
 ## 2. BORROW ##
+
 - [Celsius](http://bit.ly/celsius-app)
 - [Coinloan](http://bit.ly/try-coinloan)
 - [Nexo](http://bit.ly/try-nexo)
 
 ## 3. HOLD ##
 
-<ins> Wallet</ins>  
+<ins>Wallet</ins>  
 - [Ledgar](https://www.ledgerwallet.com)
 - [Trezor](https://trezor.io)
 
@@ -45,8 +47,9 @@ What would you do with your crypto?
 ## 5. STAKE ##
 
 ## 6. TRADE ##
+
 💱
-### Exchanges ###
+<ins>Exchanges</ins>
 - [BaseFEX](http://bit.ly/try-BaseFEX)
 - [Binance](http://bit.ly/binance-crypto-exchange)
 - [Bitfinex](http://bit.ly/try-bitfinex)
@@ -65,9 +68,9 @@ What would you do with your crypto?
 
 ## 7. BET ##
 🏇
-### Sports ###
+<ins>Sports</ins>
 
 ## 8. SPEND ##
 💳
-### Credit Card ###
+<ins>Credit Card</ins>
 
