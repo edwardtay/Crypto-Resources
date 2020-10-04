@@ -10,13 +10,11 @@ What would you do with your crypto?
 8. [**Spend**](#8-spend) — use your money to transact in the real world.
 
 ## 1. EARN ##
-
-🙌 
-<ins>Rewards</ins> 
-- [Bitrefill](https://bit.ly/bit-refill) 
-- [EarnSats](https://bit.ly/earn-sats)
-- [Fold](https://bit.ly/fold-app) 
-- [Lolli](https://bit.ly/get-lolli)
+💼
+<ins>Jobs</ins> 
+- [Angel List](https://angel.co/blockchains/jobs)
+- [Crypto Job List](https://cryptojobslist.com)
+- [Cryptocurrency Jobs](https://cryptocurrencyjobs.co)
 
 ⛏
 <ins>Mining</ins>
@@ -24,6 +22,13 @@ What would you do with your crypto?
 - [Honeyminer](http://bit.ly/download-honeyminer)
 - [Minergate](http://bit.ly/try-minergate)
 - [Nicehash](http://bit.ly/try-nicehash)
+
+🙌 
+<ins>Rewards</ins> 
+- [Bitrefill](https://bit.ly/bit-refill) 
+- [EarnSats](https://bit.ly/earn-sats)
+- [Fold](https://bit.ly/fold-app) 
+- [Lolli](https://bit.ly/get-lolli)
 
 ## 2. BORROW ##
 
