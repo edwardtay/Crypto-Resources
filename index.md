@@ -31,7 +31,7 @@ What would you do with your crypto?
 - [Lolli](https://bit.ly/get-lolli)
 
 ## 2. BORROW ##
-📱
+🏦
 <ins>CeFi Apps</ins> 
 - [Celsius](http://bit.ly/celsius-app)
 - [Coinloan](http://bit.ly/try-coinloan)
@@ -40,13 +40,23 @@ What would you do with your crypto?
 
 ## 3. HOLD ##
 💰
-<ins>Wallet</ins>  
+<ins>Hardware Wallet</ins>  
+- [Billfodl](http://bit.ly/try-billfodl)
+- [Cryptosteel](http://bit.ly/try-cryptosteel)
+- [Cobo](http://bit.ly/try-cobo-wallet)
 - [Ledgar](https://www.ledgerwallet.com)
 - [Trezor](https://trezor.io)
 
+📱
+<ins>Mobile Wallet</ins>  
+- [Samourai](https://samouraiwallet.com)
+- [Trust](https://trustwallet.com)
+- [Argent](https://www.argent.xyz)
+
+
 
 ## 4. LEND ##
-📱
+🏦
 <ins>CeFi Apps</ins> 
 - [BlockFi](http://bit.ly/blockfi)
 - [Celsius](http://bit.ly/celsius-app)
