@@ -1,4 +1,4 @@
-# USE Crypto #
+# USE crypto #
  What would you do with your crypto?
 
 1. [**Earn**](#1-earn) — do something of value to get additional money.
@@ -95,7 +95,14 @@
 - [Crypto.com](http://bit.ly/try-cryptodotcom)
 
 
-# LEARN Crypto $
+# LEARN crypto #
+📚
+<ins>Books</ins>
+- [The Bitcoin Standard](https://amzn.to/2PHXdgS)
+- [Digital Gold](https://amzn.to/2SSNBi7)
+- [The Internet of Money](https://amzn.to/2yVMFBk)
+- [Bitcoin Billionaires](https://amzn.to/317KsOQ)
+
 🎙
 <ins>Podcasts</ins>
 - [Bad Crypto](https://badcryptopodcast.com)
@@ -103,5 +110,11 @@
 - [The Breakdown](https://nlwcrypto.libsyn.com)
 - [Unchained](http://unchainedpodcast.co)
 - [What Bitcoin Did](https://www.whatbitcoindid.com/podcast)
+
+
+
+
+
+
 
 
