@@ -38,6 +38,12 @@
 - [Ledgar](https://www.ledgerwallet.com)
 - [Trezor](https://trezor.io)
 
+📱
+<ins>Mobile Wallet</ins>  - Simple, user-friendly way for transactions with other cryptocurrencies within the same application.
+- [Samourai](https://samouraiwallet.com)
+- [Trust](https://trustwallet.com)
+- [Argent](https://www.argent.xyz)
+
 ### 3. BORROW / LEND ###
 🏦
 <ins>CeFi Apps</ins> - Mimics the legacy financial industry by allowing people to earn interest or get loans, whereby they use their cryptocurrencies as a form of collateral.
@@ -49,19 +55,17 @@
 
 ⛓
 <ins>DeFi Protocols</ins> - Non-custodial and automated. The aapplication of smart contracts to financial instruments thereby removing the need for users to trust a middleman or corporation.
-
-📱
-<ins>Mobile Wallet</ins>  - Simple, user-friendly way for transactions with other cryptocurrencies within the same application.
-- [Samourai](https://samouraiwallet.com)
-- [Trust](https://trustwallet.com)
-- [Argent](https://www.argent.xyz)
-
+- [Aave](https://aave.com)
+- [C.R.E.A.M. Finance](https://cream.finance)
+- [Compound](https://compound.finance)
+- [InstaDApp](https://instadapp.io)
+- [Maker](https://makerdao.com)
 
 
 ### 4. TRADE ###
 
 💱
-<ins>Exchanges</ins>
+<ins>Exchanges</ins> - Gateway for converting fiat into crypto and accessing thousands of digital currencies.
 - [Binance](http://bit.ly/binance-crypto-exchange)
 - [Deribit](http://bit.ly/try-deribit)
 - [Gate](http://bit.ly/gate-exchange)
