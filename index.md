@@ -11,7 +11,7 @@ What would you do with your crypto?
 
 ## 1. EARN ##
 💼
-<ins>Jobs</ins> - You don't have to be a developer in order to contribute to this emrging industry.
+<ins>Jobs</ins> - You don't have to be a developer in order to contribute to this emerging industry.
 - [Angel List](https://angel.co/blockchains/jobs)
 - [Crypto Job List](https://cryptojobslist.com)
 - [Cryptocurrency Jobs](https://cryptocurrencyjobs.co)
@@ -89,4 +89,15 @@ What would you do with your crypto?
 💳
 <ins>Credit Cards</ins>
 - [Crypto.com](http://bit.ly/try-cryptodotcom)
+
+
+## LEARN ##
+🎙
+<ins>Podcasts</ins>
+- [Bad Crypto](https://badcryptopodcast.com)
+- [Bankless](http://podcast.banklesshq.com)
+- [The Breakdown](https://nlwcrypto.libsyn.com)
+- [Unchained](http://unchainedpodcast.co)
+- [What Bitcoin Did](https://www.whatbitcoindid.com/podcast)
+
 
