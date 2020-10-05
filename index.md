@@ -32,11 +32,14 @@ What would you do with your crypto?
 
 ## 2. BORROW ##
 🏦
-<ins>CeFi Apps</ins> 
+<ins>CeFi Apps</ins> - Trusted platforms to lending out your cryptocurrencies is a viable option foe increasing your income.
 - [Celsius](http://bit.ly/celsius-app)
 - [Coinloan](http://bit.ly/try-coinloan)
 - [Crypto.com](http://bit.ly/try-cryptodotcom)
 - [Nexo](http://bit.ly/try-nexo)
+
+⛓
+<ins>DeFi Protocols</ins> - Non-custodial and automated, meaning that they don’t hold the users’ cryptocurrencies, but instead only connect lenders and borrowers with each other.
 
 ## 3. HOLD ##
 💰
