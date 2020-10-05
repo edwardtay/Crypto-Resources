@@ -2,13 +2,11 @@
  What would you do with your crypto?
 
 1. [**Earn**](#1-earn) — do something of value to get additional money.
-2. [**Borrow / Lend**](#2-borrow) — pay funds to borrow money from protocols and banks.
-3. [**Hold**](#3-hold) — custody and secure your money for saving.
-4. [**Lend**](#4=lend) — generate returns by lending your money to protocols or banks.
-5. [**Stake**](#5-stake) — special case of lending—lend money to a protocol to generate returns.
-6. [**Trade**](#6-trade) — exchange your money for something of value.
-7. [**Bet**](#7-bet) — risk and earn money by making a bet (shorting/longing included).
-8. [**Spend**](#8-spend) — use your money to transact in the real world.
+2. [**Hold**](#2-hold) — custody and secure your money for saving.
+3. [**Borrow / Lend**](#3-borrow--lend) — pay funds to borrow money from protocols and banks.
+4. [**Trade**](#4-trade) — exchange your money for something of value.
+5. [**Bet**](#5-bet) — risk and earn money by making a bet (shorting/longing included).
+
 
 ### 1. EARN ###
 💼
@@ -31,7 +29,16 @@
 - [Fold](https://bit.ly/fold-app) 
 - [Lolli](https://bit.ly/get-lolli)
 
-### 2. BORROW / LEND ###
+### 2. HOLD ###
+💰
+<ins>Hardware Wallet</ins> -  Physical devices which act as a flash drive and store your private keys. The device is secure enough that you can even use them with a device you don't trust. 
+- [Billfodl](http://bit.ly/try-billfodl)
+- [Cryptosteel](http://bit.ly/try-cryptosteel)
+- [Cobo](http://bit.ly/try-cobo-wallet)
+- [Ledgar](https://www.ledgerwallet.com)
+- [Trezor](https://trezor.io)
+
+### 3. BORROW / LEND ###
 🏦
 <ins>CeFi Apps</ins> - Mimics the legacy financial industry by allowing people to earn interest or get loans, whereby they use their cryptocurrencies as a form of collateral.
 - [BlockFi](http://bit.ly/blockfi)
@@ -43,15 +50,6 @@
 ⛓
 <ins>DeFi Protocols</ins> - Non-custodial and automated. The aapplication of smart contracts to financial instruments thereby removing the need for users to trust a middleman or corporation.
 
-## 3. HOLD ##
-💰
-<ins>Hardware Wallet</ins> -  Physical devices which act as a flash drive and store your private keys. The device is secure enough that you can even use them with a device you don't trust. 
-- [Billfodl](http://bit.ly/try-billfodl)
-- [Cryptosteel](http://bit.ly/try-cryptosteel)
-- [Cobo](http://bit.ly/try-cobo-wallet)
-- [Ledgar](https://www.ledgerwallet.com)
-- [Trezor](https://trezor.io)
-
 📱
 <ins>Mobile Wallet</ins>  - Simple, user-friendly way for transactions with other cryptocurrencies within the same application.
 - [Samourai](https://samouraiwallet.com)
@@ -60,10 +58,7 @@
 
 
 
-
-## 5. STAKE ##
-
-## 6. TRADE ##
+### 4. TRADE ###
 
 💱
 <ins>Exchanges</ins>
@@ -74,7 +69,7 @@
 - [Remitano](http://bit.ly/try-Remitano)
 
 
-## 7. BET ##
+### 5. BET ###
 🎲
 - [Augur](http://bit.ly/augur-prediction)
 - [CryptoBet](http://bit.ly/try-cryptobet)
@@ -82,10 +77,7 @@
 
 
 
-## 8. SPEND ##
-💳
-<ins>Credit Cards</ins>
-- [Crypto.com](http://bit.ly/try-cryptodotcom)
+
 
 
 # LEARN crypto #
