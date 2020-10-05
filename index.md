@@ -96,12 +96,29 @@
 
 
 # LEARN crypto #
+📈
+<ins>Aggregators</ins>
+- [CoinMarketCap](https://coinmarketcap.com)	
+- [CoinGecko](https://www.coingecko.com/en)
+- [Coinpaprika](https://coinpaprika.com)	
+- [Dapp Radar](https://dappradar.com)
+- [State of the Dapps](https://www.stateofthedapps.com)
+
+
 📚
 <ins>Books</ins>
 - [The Bitcoin Standard](https://amzn.to/2PHXdgS)
 - [Digital Gold](https://amzn.to/2SSNBi7)
 - [The Internet of Money](https://amzn.to/2yVMFBk)
 - [Bitcoin Billionaires](https://amzn.to/317KsOQ)
+
+🗞
+<ins>Newsletters</ins>
+- [Crypto Weekly](https://cryptoweekly.co)
+- [DeFi Tutorials](https://defitutorials.substack.com)
+- [DeFi Weekly](https://defiweekly.substack.com)
+- [Dose of Defi](https://doseofdefi.substack.com) 
+- [My Two Gwei](https://mytwogwei.substack.com)
 
 🎙
 <ins>Podcasts</ins>
