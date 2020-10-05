@@ -1,3 +1,4 @@
+# USE # crypto
 What would you do with your crypto?
 
 1. [**Earn**](#1-earn) — do something of value to get additional money.
@@ -94,7 +95,7 @@ What would you do with your crypto?
 - [Crypto.com](http://bit.ly/try-cryptodotcom)
 
 
-## LEARN ##
+# LEARN # crypto
 🎙
 <ins>Podcasts</ins>
 - [Bad Crypto](https://badcryptopodcast.com)
