@@ -10,7 +10,7 @@
 7. [**Bet**](#7-bet) — risk and earn money by making a bet (shorting/longing included).
 8. [**Spend**](#8-spend) — use your money to transact in the real world.
 
-## 1. EARN ##
+### 1. EARN ###
 💼
 <ins>Jobs</ins> - You don't have to be a developer in order to contribute to this emerging industry.
 - [Angel List](https://angel.co/blockchains/jobs)
@@ -31,7 +31,7 @@
 - [Fold](https://bit.ly/fold-app) 
 - [Lolli](https://bit.ly/get-lolli)
 
-## 2. BORROW ##
+### 2. BORROW ###
 🏦
 <ins>CeFi Apps</ins> - Trusted platforms to lending out your cryptocurrencies is a viable option foe increasing your income.
 - [Celsius](http://bit.ly/celsius-app)
