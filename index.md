@@ -75,14 +75,10 @@
 
 ### 5. BET ###
 🎲
+<ins>Betting Apps</ins> - Stake your crypto and make predictions, make sports bet, gamble etc.
 - [Augur](http://bit.ly/augur-prediction)
 - [CryptoBet](http://bit.ly/try-cryptobet)
 - [Stake](https://stake.com/?c=f78d0a1943)
-
-
-
-
-
 
 # LEARN crypto #
 📈
