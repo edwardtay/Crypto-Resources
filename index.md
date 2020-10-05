@@ -40,11 +40,11 @@ What would you do with your crypto?
 - [Nexo](http://bit.ly/try-nexo)
 
 ⛓
-<ins>DeFi Protocols</ins> - Non-custodial and automated, meaning that they don’t hold the users’ cryptocurrencies, but instead only connect lenders and borrowers with each other.
+<ins>DeFi Protocols</ins> - Non-custodial and automated. The aapplication of smart contracts to financial instruments thereby removing the need for users to trust a middleman or corporation.
 
 ## 3. HOLD ##
 💰
-<ins>Hardware Wallet</ins>  
+<ins>Hardware Wallet</ins> -  Physical devices, which act as a flash drive and store your private keys. The device is secure enough that you can even use them with a device you don't trust. 
 - [Billfodl](http://bit.ly/try-billfodl)
 - [Cryptosteel](http://bit.ly/try-cryptosteel)
 - [Cobo](http://bit.ly/try-cobo-wallet)
@@ -52,7 +52,7 @@ What would you do with your crypto?
 - [Trezor](https://trezor.io)
 
 📱
-<ins>Mobile Wallet</ins>  
+<ins>Mobile Wallet</ins>  - Simple, user-friendly way for transactions with other cryptocurrencies within the same application.
 - [Samourai](https://samouraiwallet.com)
 - [Trust](https://trustwallet.com)
 - [Argent](https://www.argent.xyz)
@@ -61,7 +61,7 @@ What would you do with your crypto?
 
 ## 4. LEND ##
 🏦
-<ins>CeFi Apps</ins> 
+<ins>CeFi Apps</ins> - Mimics the legacy financial industry by allowing people to earn interest or get loans, whereby they use their cryptocurrencies as a form of collateral.
 - [BlockFi](http://bit.ly/blockfi)
 - [Celsius](http://bit.ly/celsius-app)
 - [Coinloan](http://bit.ly/try-coinloan)
