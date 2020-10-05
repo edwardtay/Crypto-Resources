@@ -1,3 +1,5 @@
+Since the inception of Bitcoin over a decade ago, cryptocurrencies has come a long way. 
+
 # USE crypto #
  What would you do with your crypto?
 
