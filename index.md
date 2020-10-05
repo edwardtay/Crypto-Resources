@@ -1,5 +1,5 @@
-# USE # crypto
-What would you do with your crypto?
+# USE Crypto #
+ What would you do with your crypto?
 
 1. [**Earn**](#1-earn) — do something of value to get additional money.
 2. [**Borrow**](#2-borrow) — pay funds to borrow money from protocols and banks.
@@ -95,7 +95,7 @@ What would you do with your crypto?
 - [Crypto.com](http://bit.ly/try-cryptodotcom)
 
 
-# LEARN # crypto
+# LEARN Crypto $
 🎙
 <ins>Podcasts</ins>
 - [Bad Crypto](https://badcryptopodcast.com)
