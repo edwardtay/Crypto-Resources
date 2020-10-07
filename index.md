@@ -119,6 +119,15 @@ Since the inception of Bitcoin over a decade ago, cryptocurrencies has come a lo
 - [Unchained](http://unchainedpodcast.co)
 - [What Bitcoin Did](https://www.whatbitcoindid.com/podcast)
 
+📺
+<ins>YouTube</ins>
+- [Anthony Pompliano](https://www.youtube.com/c/AnthonyPompliano)
+- [Chico Crypto](https://www.youtube.com/c/ChicoCryptoConsultants)
+- [Chris Blec](https://www.youtube.com/c/chrisblec)
+- [Finematics](https://www.youtube.com/c/Finematics)
+- [Hashoshi](https://www.youtube.com/c/Hashoshi4)
+
+
 Decentralized.page ⚡️ Curated by [Edward Tay](https://edwardtay.com)
 
 
