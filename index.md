@@ -103,6 +103,13 @@ Since the inception of Bitcoin over a decade ago, cryptocurrencies has come a lo
 - [The Internet of Money](https://amzn.to/2yVMFBk)
 - [Bitcoin Billionaires](https://amzn.to/317KsOQ)
 
+📰
+<ins>Media</ins>
+- [CoinDesk](https://www.coindesk.com)
+- [Cointelegraph](https://cointelegraph.com)
+- [Decrypt](https://decrypt.co)
+- [The Block Crypto](https://www.theblockcrypto.com)
+
 🗞
 <ins>Newsletters</ins>
 - [Crypto Weekly](https://cryptoweekly.co)
