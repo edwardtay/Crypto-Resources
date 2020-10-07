@@ -36,12 +36,12 @@ Since the inception of Bitcoin over a decade ago, cryptocurrencies has come a lo
 <ins>Hardware Wallet</ins> -  Physical devices which act as a flash drive and store your private keys. The device is secure enough that you can even use them with a device you don't trust. 
 - [Billfodl](http://bit.ly/try-billfodl)
 - [Cryptosteel](http://bit.ly/try-cryptosteel)
-- [Cobo](http://bit.ly/try-cobo-wallet)
+- [KeepKey](http://bit.ly/try-keepkey)
 - [Ledgar](https://www.ledgerwallet.com)
 - [Trezor](https://trezor.io)
 
 📱
-<ins>Mobile Wallet</ins>  - Simple, user-friendly way for transactions with other cryptocurrencies within the same application.
+<ins>Mobile Wallet</ins>  - Mobile apps for buying, selling and holding crypto.
 - [Samourai](https://samouraiwallet.com)
 - [Trust](https://trustwallet.com)
 - [Argent](https://www.argent.xyz)
@@ -56,24 +56,28 @@ Since the inception of Bitcoin over a decade ago, cryptocurrencies has come a lo
 - [Nexo](http://bit.ly/try-nexo)
 
 ⛓
-<ins>DeFi Protocols</ins> - Non-custodial and automated. The aapplication of smart contracts to financial instruments thereby removing the need for users to trust a middleman or corporation.
+<ins>DeFi Protocols</ins> - Non-custodial and automated. The application of smart contracts to financial instruments thereby removing the need for users to trust a middleman or corporation.
 - [Aave](https://aave.com)
 - [C.R.E.A.M. Finance](https://cream.finance)
 - [Compound](https://compound.finance)
 - [InstaDApp](https://instadapp.io)
-- [Maker](https://makerdao.com)
+- [MakerDAO](https://makerdao.com)
 
 
 ### 4. TRADE ###
 
 💱
-<ins>Exchanges</ins> - Gateway for converting fiat into crypto and accessing thousands of digital currencies.
-- [Binance](http://bit.ly/binance-crypto-exchange)
-- [Deribit](http://bit.ly/try-deribit)
-- [Gate](http://bit.ly/gate-exchange)
-- [LocalBitcoins](http://bit.ly/localbitcoinsdotcom)
-- [Remitano](http://bit.ly/try-Remitano)
-
+<ins>Exchanges</ins> - Gateway for converting fiat into crypto and accessing thousands of digital currencies. Types: Spot, Derivatives, Decentralized Exchange (DEX)
+- [1inch Exchange](https://1inch.exchange) - DEX
+- [Binance](http://bit.ly/binance-crypto-exchange) - Spot, Derivatives
+- [BitMEX](http://bit.ly/try-BitMEX) - Spot, Derivatives
+- [Bybit](http://bit.ly/try-bybit-exchange) - Spot, Derivatives
+- [Compound](https://compound.finance) - DEX
+- [Curve Finance](https://www.curve.fi) - DEX
+- [FTX](http://bit.ly/try-ftx) - Spot, Derivatives
+- [OKEx](http://bit.ly/try-OKEx) - Spot, Derivatives
+- [LocalBitcoins](http://bit.ly/localbitcoinsdotcom) - Spot
+- [Uniswap](https://uniswap.org) - DEX
 
 ### 5. BET ###
 🎲
