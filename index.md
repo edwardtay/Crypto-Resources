@@ -95,6 +95,16 @@ Since the inception of Bitcoin over a decade ago, cryptocurrencies has come a lo
 - [Dapp Radar](https://dappradar.com)
 - [State of the Dapps](https://www.stateofthedapps.com)
 
+🕵
+<ins>Analysis</ins>
+- [Blockchair](https://blockchair.com)
+- [Chainalysis Market Intel](https://markets.chainalysis.com)
+- [Crypto51](https://www.crypto51.app)
+- [Dune Analytics](https://duneanalytics.com)
+- [ETH Gas Station](https://ethgasstation.info)
+- [Etherscan](https://etherscan.io/charts)
+- [IntoTheBlock](https://app.intotheblock.com)
+- [Token Terminal](https://www.tokenterminal.com)
 
 📚
 <ins>Books</ins>
